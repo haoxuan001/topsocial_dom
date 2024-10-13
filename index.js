@@ -18,7 +18,7 @@ profileItem.appendChild(profilePho);
 
 // Image 
 const img=document.createElement('img');
-img.src="./public/images/images/profile/profile_1.png" 
+img.src='./images/profile/profile_1.png';
 img.alt = 'profile';
 profilePho.appendChild(img);
 // Profile description
